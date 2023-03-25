@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-eta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Eta in your entrypoint",
   "main": "./dist/index.js",
   "types": "./dist/types/index.d.ts",
