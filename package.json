@@ -1,9 +1,9 @@
 {
   "name": "vite-plugin-eta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Eta in your entrypoint",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "repository": "https://github.com/moyui/vite-plugin-eta.git",
   "author": "moyui默羽",
   "private": false,
